@@ -1,6 +1,5 @@
 /*
-Covid 19 Data Exploration 
-Skills used: Joins, CTE's, Windows Functions, Aggregate Functions,  Converting Data Types, Formatting Data
+The "Covid 19 Data Exploration" project is a data analysis project that uses SQL to explore data related to the COVID-19 pandemic. The project utilizes various SQL techniques such as joins, CTE's, windows functions, aggregate functions, data type conversions, and formatting to extract insights and generate various statistics such as total cases vs total deaths, total cases vs population, countries with highest infection rate, continents with highest death count, global numbers and total population vs vaccinations. The project provides a detailed analysis of the data and provides a deeper understanding of the impact of the pandemic on different locations and continents.
 */
 
 SELECT *
